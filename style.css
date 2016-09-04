@@ -3,7 +3,7 @@
     width:960px;
     margin:0px auto
 }
-#container.titles {
+container.titles {
     font-weight: lighter;font-family: Helvetica;font-size: 10px;
 } 
 #footer {font-weight: lighter;font-family: Helvetica;font-size: 14px;
@@ -11,9 +11,9 @@
         bottom:0px;
         height:70px;
         width:100%;}
-#container.h1 {font-weight: lighter;text-align:center;font-family: Helvetica;font-size: 30px}
-#container.h5 {font-weight: lighter;text-align:center;font-family: Helvetica;font-size: 15px}
-#container.ul {font-weight: lighter;font-family: Helvetica;font-size: 18px;list-style-position: inside}
+container.h1 {font-weight: lighter;text-align:center;font-family: Helvetica;font-size: 30px}
+container.h5 {font-weight: lighter;text-align:center;font-family: Helvetica;font-size: 15px}
+container.ul {font-weight: lighter;font-family: Helvetica;font-size: 18px;list-style-position: inside}
 
 @media screen and(max-width:959px){
     #container{
